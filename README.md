@@ -1,6 +1,6 @@
 # lucasopsioi
 
-**I build AI products for enterprise operations — in the field, not the lab.**
+**I build AI products for enterprise operations**
 
 Channel-sales category lead in consumer electronics (Latin America): pricing approvals, demand & inventory planning, sell-out analytics across a dozen countries. Every repo here started as one of my own team's weekly pains and shipped as a working product — then got measured, hardened and iterated like one.
 
